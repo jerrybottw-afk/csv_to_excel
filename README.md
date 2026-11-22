@@ -6,7 +6,7 @@
 
 ## 🖥️ 操作畫面
 
-![CSV 批次轉 Excel 工具操作介面](screenshot/pic_01.png)
+![CSV 批次轉 Excel 工具操作介面](screenshot/pic_01.PNG)
 
 ---
 
